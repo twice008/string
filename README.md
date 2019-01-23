@@ -1,0 +1,2 @@
+# string
+the string class
